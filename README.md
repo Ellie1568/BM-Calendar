@@ -154,8 +154,7 @@ BM-Calendar/
 
 ## 🌙 關於這個 Skill
 
-這是 [Blood Moon Console](https://github.com/Ellie1568/BloodMoon-ui) 專案的一部分。
-我在做自己的 AI 夥伴村莊介面時，需要讓 AI 夥伴幫我管行事曆，就順手把這個功能打包成 Skill 分享出來。
+我在做自己的 AI 夥伴專案時，需要讓 AI 夥伴幫我管行事曆，就順手把這個功能打包成 Skill 分享出來。
 
 如果有問題或 bug 歡迎開 Issue！
 如果有幫助到你的話，給個 ⭐ 讓我知道 🥹
